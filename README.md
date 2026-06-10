@@ -3,7 +3,7 @@
 Interactive Excel dashboard for tracking and analyzing customer churn metrics across branches and time periods with dynamic year-wise filtering.
 
 ## 📊 Dashboard Preview
-![Churn Dashboard](dashboard.png)
+![Churn Dashboard](Dashboard.png)
 
 ## 🎯 Key Features
 - **Dynamic Year Selection**: Dashboard title and all KPIs auto-update based on Year slicer. Supports 2025 and 2026 data
